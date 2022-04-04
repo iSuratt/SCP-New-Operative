@@ -7,5 +7,6 @@
 76561198900719364;false;Beta Tester
 76561198869319022;false;Beta Tester
 76561198990522422;false;Beta Tester
+76561198833147901;false;Beta Tester
 76561197963882325;true;Studio Director
 76561199240136177;true;Studio Director
