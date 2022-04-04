@@ -1,0 +1,10 @@
+76561198846575221;false;Beta Tester
+76561198361397957;false;Beta Tester
+76561198290247806;false;Beta Tester
+76561198827125250;false;Beta Tester
+76561199261576748;false;Beta Tester
+76561198864312179;false;Beta Tester
+76561198900719364;false;Beta Tester
+76561198869319022;false;Beta Tester
+76561197963882325;true;Studio Director
+76561199240136177;true;Studio Director
